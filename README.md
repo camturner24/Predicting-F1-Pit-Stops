@@ -43,14 +43,7 @@ The project was built using Python and common machine learning libraries such as
 │   ├── test.csv
 │   └── sample_submission.csv
 │
-├── notebooks/
-│   └── eda_and_modeling.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── train.py
-│   └── predict.py
+├── project_notebook.ipynb
 │
 ├── submissions/
 │   └── submission.csv
