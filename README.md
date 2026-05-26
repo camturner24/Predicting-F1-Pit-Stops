@@ -2,7 +2,7 @@
 
 This project contains a machine learning solution for the Kaggle competition:
 
-:contentReference[oaicite:0]{index=0}
+[Predicting F1 Pit Stops](https://www.kaggle.com/competitions/playground-series-s6e5/overview)
 
 The goal of the competition is to build a predictive model using tabular data and generate submissions for leaderboard evaluation. The project focuses on data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and prediction generation.
 
