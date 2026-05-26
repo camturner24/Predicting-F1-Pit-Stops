@@ -4,7 +4,7 @@ This project contains a machine learning solution for the Kaggle competition:
 
 :contentReference[oaicite:0]{index=0}
 
-The goal of the competition is to build a predictive model using tabular data and generate submissions for leaderboard evaluation. The project focuses on data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and prediction generation. :contentReference[oaicite:1]{index=1}
+The goal of the competition is to build a predictive model using tabular data and generate submissions for leaderboard evaluation. The project focuses on data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and prediction generation.
 
 ---
 
