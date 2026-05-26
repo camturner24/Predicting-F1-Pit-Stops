@@ -8,7 +8,7 @@ The goal of the competition is to build a predictive model using tabular data an
 
 ---
 
-## Project Overview
+## Project Overview (Project is still in progress... changes in structure may occur and this document will have final update at project completion)
 
 This repository demonstrates a complete machine learning workflow for a Kaggle competition, including:
 
